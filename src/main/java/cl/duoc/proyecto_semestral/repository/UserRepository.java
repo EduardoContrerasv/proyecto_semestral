@@ -8,4 +8,10 @@ import java.util.List;
 public class UserRepository {
 
     private List<User> usersList = new ArrayList<>();
+
+    public List<User> getUsersList() {
+        return usersList;
+    }
+
+
 }
