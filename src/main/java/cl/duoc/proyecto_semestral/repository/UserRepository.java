@@ -7,5 +7,5 @@ import java.util.List;
 
 public class UserRepository {
 
-    private List<User> usersList new ArrayList<>;
+    private List<User> usersList = new ArrayList<>();
 }
